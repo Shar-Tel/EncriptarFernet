@@ -1,0 +1,1 @@
+#Sencillo programa que encripta o desencripta un texto mediante encriptación Fernet. La clave está fija en el código, pero se incluye comando comentado que la genera.
